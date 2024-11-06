@@ -1,0 +1,3 @@
+customtkinter~=5.2.2
+pillow~=11.0.0
+CTkSpinbox~=1.4.1

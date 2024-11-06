@@ -1,0 +1,8 @@
+bread, 2.99, 2
+butter, 12.99, 2
+cheese, 19.99, 4
+sausage, 17.99, 2
+tomatos, 8.99, 3
+apples, 9.99, 5
+pears, 4.99, 18
+milk, 8.99, 0
